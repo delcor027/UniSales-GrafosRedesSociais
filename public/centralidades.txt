@@ -1,0 +1,6 @@
+Centralidade de Intermediação:
+{'Antonio': 0.0, 'Felipe': 1.0, 'Marcelo': 0.0}
+Centralidade de Proximidade:
+{'Antonio': 0.6666666666666666, 'Felipe': 1.0, 'Marcelo': 0.6666666666666666}
+Centralidade de Grau:
+{'Antonio': 0.5, 'Felipe': 1.0, 'Marcelo': 0.5}
